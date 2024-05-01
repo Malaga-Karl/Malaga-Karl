@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Malaga-Karl/Malaga-Karl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
