@@ -1,7 +1,7 @@
 # Hi there 👋
 
-🔭 I’m currently working on PLM ERP, JustJot 📱
-🌱 I’m currently learning R 📈
+- 🔭 I’m currently working on PLM ERP, JustJot 📱
+- 🌱 I’m currently learning R 📈
 <!--
 **Malaga-Karl/Malaga-Karl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
